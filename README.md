@@ -1,5 +1,8 @@
 # GuestBook App
 this is a Online Books Application to put in practice your basic Node knowledge
+https://www.pedropablomoral.com/raspberrypi/proyectos/servidor-casero/
+https://www.pedropablomoral.com/raspberrypi/proyectos/servidor-casero/
+https://www.pedropablomoral.com/raspberrypi/proyectos/servidor-casero/
 
 # ScreenShoot
 
